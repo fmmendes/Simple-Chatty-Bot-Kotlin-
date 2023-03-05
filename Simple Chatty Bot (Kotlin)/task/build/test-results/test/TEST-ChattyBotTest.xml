@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChattyBotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-05T03:58:01" hostname="0A299QAT701146" time="0.119">
+  <properties/>
+  <testcase name="start" classname="ChattyBotTest" time="0.119"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is Chatty.
+I was created in 2023.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
