@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ===
+- text: ==
+- text: compare
+- text: is
+- text: "~"
+- text: "~~"
+- text: =
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11237#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: "Sun, 05 Mar 2023 05:39:43 UTC"
+record: -1
+selected_options:
+- 1
+custom_name: How to compare?
+local_check: false
